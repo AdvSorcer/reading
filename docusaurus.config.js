@@ -64,7 +64,7 @@ const config = {
         title: 'Reading',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/book_logo.svg',
         },
         items: [
           {
