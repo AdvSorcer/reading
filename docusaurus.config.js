@@ -76,16 +76,12 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: '查理',
           },
   
         ],
       },
-      footer: {
-        style: 'dark',
-       
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. 讀書會`,
-      },
+
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
