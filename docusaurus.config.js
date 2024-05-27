@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Reading',
-  tagline: 'Reading are cool',
+  tagline: 'Reading is essential for those who seek to rise above the ordinary.',
   favicon: 'img/book_logo.ico',
 
   // Set the production url of your site here
