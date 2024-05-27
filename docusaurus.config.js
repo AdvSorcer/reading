@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Reading',
   tagline: 'Reading are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/book_logo.ico',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
