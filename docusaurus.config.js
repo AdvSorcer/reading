@@ -73,7 +73,12 @@ const config = {
             position: 'left',
             label: '查理',
           },
-  
+          {
+            type: 'docSidebar',
+            sidebarId: 'wadun',
+            position: 'left',
+            label: '華頓',
+          },
         ],
       },
 
